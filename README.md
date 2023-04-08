@@ -4,6 +4,7 @@ i am calculate a code price_Qty_tax
 price_qty_tax formula use
 $data=$price*$qty;
 $selling = $data  * ((100 + $tax) / 100);
+
 tax rate calcute amount formula
 rate=$price*$qty*$tax/100;
 
